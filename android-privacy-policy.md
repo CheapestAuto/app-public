@@ -1,9 +1,9 @@
 # Privacy Policy
 
 **Effective date:** April 27, 2026
-**Last updated:** April 27, 2026
+**Last updated:** May 15, 2026
 
-This Privacy Policy explains how Save Money Car Insurance LLC, doing business as "Cheapest Auto Insurance" ("we", "us", or "our"), collects, uses, shares, and protects information when you use the **Cheapest Auto Insurance** mobile application (the "App"), including any embedded web content the App displays, and any related services we provide (collectively, the "Services").
+This Privacy Policy explains how Dorsey & Dorsey Inc, doing business as "Cheapest Auto Insurance" ("we", "us", or "our"), collects, uses, shares, and protects information when you use the **Cheapest Auto Insurance** mobile application (the "App"), including any embedded web content the App displays, and any related services we provide (collectively, the "Services").
 
 By installing or using the App, you agree to the practices described in this Privacy Policy. If you do not agree, please do not use the App.
 
@@ -12,7 +12,7 @@ By installing or using the App, you agree to the practices described in this Pri
 ## 1. Who we are
 
 **Controller / business contact:**
-- Legal entity: Save Money Car Insurance LLC (DBA "Cheapest Auto Insurance")
+- Legal entity: Dorsey & Dorsey Inc (DBA "Cheapest Auto Insurance")
 - Mailing address: 8310 E 71st St, Tulsa, OK 74133-2932, USA
 - Contact email: josh@tulsainsuranceonline.com
 - Phone: (918) 744-5145
@@ -148,7 +148,7 @@ We may update this Privacy Policy from time to time. When we make material chang
 
 Questions, requests, or complaints about this Privacy Policy or our data practices:
 
-**Save Money Car Insurance LLC** (DBA "Cheapest Auto Insurance")
+**Dorsey & Dorsey Inc** (DBA "Cheapest Auto Insurance")
 8310 E 71st St
 Tulsa, OK 74133-2932, USA
 Email: josh@tulsainsuranceonline.com
